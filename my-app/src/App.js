@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Route, Switch } from 'react-router-dom';
 import Success from './components/Success';
-import NewPickUpLineForm from './components/NewPickupLineForm';
+import NewPickUpLineForm from "./components/NewPickUpLineForm";
 import Nav from "./components/Nav";
 import AllPickUpLines from "./components/AllPickUpLines";
 import Home from "./components/Home";
@@ -57,5 +57,4 @@ function App() {
        </div>
   );
 }
-
 export default App;

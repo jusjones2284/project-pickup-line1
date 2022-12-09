@@ -69,4 +69,27 @@
         "setting": "mall",
         "id": 11
       }
-    ]}
+    ],
+    "feedback": [
+      {
+        "id": 1,
+        "content": "I used this on my current girlfriend of five years. I sat next to her in public transit with my sound-canceling headphones. A couple of minutes later, I took off my headphones and asked, ‘Sorry, did you say something?’ She said, ‘No' and I said, ‘Well, it's not too late to start a conversation."
+      },
+      {
+        "id": 2,
+        "content": "I told a girl working in a jewelry store that her eyes sparkle more than anything in the store. Yes, it worked, but I was also a lot younger and in better shape then."
+      },
+      {
+        "id": 3,
+        "content": "Walked up to the girl working the popcorn machine at the place we both worked. I said, ‘Did you make all that popcorn yourself?’ with the biggest, sheepish grin I could muster. A year and a half later we made a baby."
+      },
+      {
+        "id": 4,
+        "content": "As a single girl, I did enjoy the ‘How much does a polar bear weigh? Enough to break the ice.’ It was silly and got my attention."
+      },
+      {
+        "id": 5,
+        "content": "This girl on a dating App said she's a huge Harry Potter fan. I happen to be a tall, beefy, bearded man. I told her, ‘I don't mean to brag but I'm actually Hagrid’s secret love child.’ We’ve been dating for over two years now."
+      }
+    ]
+  }
