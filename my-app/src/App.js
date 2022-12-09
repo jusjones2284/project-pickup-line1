@@ -34,7 +34,6 @@ function App() {
     setPickUpLines([...pickUpLines, pickup])
  }
 
- 
   return (
       <div>
       <Nav />
@@ -48,7 +47,6 @@ function App() {
         <Route exact path="/success">
           <Success successStories={successStories}/>
         </Route>
-
         <Route exact path="/allpickuplines">
           <AllPickUpLines pickUpLines={pickUpLines}  />
         </Route>
@@ -57,4 +55,5 @@ function App() {
        </div>
   );
 }
+
 export default App;

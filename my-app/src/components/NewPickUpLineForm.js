@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 
-
-
 const NewPickUpLineForm = ({ handleNewLine })=>{
     // const [input, setInput] = useState("")
  const [formData, setFormData] = useState({
@@ -35,13 +33,9 @@ const NewPickUpLineForm = ({ handleNewLine })=>{
         setFormData({
         content: "",
         setting: ""
-
   })
-
       }
       
-
-   
     return(
         <div>
         <h1>New Pickup Line</h1>
