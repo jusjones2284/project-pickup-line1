@@ -1,0 +1,72 @@
+{
+    "pickuplines": [
+      {
+        "id": 1,
+        "setting": "Church",
+        "content": "Don’t walk away, babe. You may not think I’m perfect but Jesus thinks I’m to die for.",
+        "favorite": 0
+      },
+      {
+        "id": 2,
+        "setting": "Club",
+        "content": "If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.",
+        "favorite": 0
+      },
+      {
+        "id": 3,
+        "setting": "Club",
+        "content": "I wish I were cross-eyed so I can see you twice.",
+        "favorite": 0
+      },
+      {
+        "id": 4,
+        "setting": "Club",
+        "content": "Do you believe in love at first sight—or should I walk by again?",
+        "favorite": 0
+      },
+      {
+        "id": 5,
+        "setting": "App",
+        "content": "Are you a bank loan? Because you have my interest.",
+        "favorite": 0
+      },
+      {
+        "id": 6,
+        "setting": "Church",
+        "content": "Is it hot in here or is that just the Holy Spirit burning inside of you?",
+        "favorite": 0
+      },
+      {
+        "id": 7,
+        "setting": "Church",
+        "content": "I believe one of my ribs belongs to you.",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "setting": "App",
+        "content": "I usually go for 8’s but I guess I’ll settle for a 10.",
+        "favorite": 0
+      },
+      {
+        "id": 8,
+        "setting": "App",
+        "content": "Do you believe in love at first sight, or should we match again?",
+        "favorite": 0
+      },
+      {
+        "content": "you are beautiful",
+        "setting": "Mall",
+        "id": 9
+      },
+      {
+        "content": "Hello! you are beautiful!",
+        "setting": "beach",
+        "id": 10
+      },
+      {
+        "content": "you are beautiful",
+        "setting": "mall",
+        "id": 11
+      }
+    ]}
